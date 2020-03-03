@@ -20,7 +20,7 @@ pool:
 #    jdkArchitectureOption: 'x64'
 #    publishJUnitResults: false
 #    testResultsFiles: '**/TEST-*.xml'
-#    tasks: 'build'
+##    tasks: 'build'
 
 steps:
 - task: Maven@3
